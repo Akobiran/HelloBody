@@ -5,5 +5,8 @@ public class Main{
         System.out.println("Hello World");
         System.out.println("Hello Akobirrakhimov");
        int e=3;
+       System.out.println(e);
+       String s ="Hello World";
+       System.out.println(s);
     }
 }
