@@ -8,5 +8,7 @@ public class Main{
        System.out.println(e);
        String s ="Hello World";
        System.out.println(s);
+       String s1="Akobirrakhimov";
+       System.out.println(s1);
     }
 }
